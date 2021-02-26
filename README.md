@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rbulcher/rbulcher/blob/main/header.png">
+  <img src="https://github.com/rbulcher/rbulcher/blob/main/gitHeader.png">
   <br><br>
   <samp>
     I'm <a href="http://ryanbulcher.com/">Ryan</a> currently a Third Year Software Engineer student at <a href="https://www.miamioh.edu">@MiamiOH :school: </a> and aspiring software developer:computer:. Interested in working on Full Stack development, Data Science, Databases and currently learning React and Node JS. I do enjoy self projects and learning new things :bulb:
