@@ -15,5 +15,13 @@
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
-
+<a href="https://twitter.com/ryan_bulcher">
+  <img align="left" alt="Ryan Bulcher Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://www.facebook.com/people/Ryan-Bulcher/100017606082197">
+  <img align="left" alt="Ryan Bulcher Facebook" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ryan-bulcher-60797a149">
+  <img align="left" alt="Ryan Bulcher Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a><br/><br/>
 <br/><br/>
