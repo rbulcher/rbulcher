@@ -8,7 +8,7 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/java.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|<img src="https://github.com/rbulcher/rbulcher/blob/main/java.png" width=60> | <img src="https://github.com/rbulcher/rbulcher/blob/main/js.png" width=60> | <img src="https://github.com/rbulcher/rbulcher/blob/main/python.png" width=60> |
 |:---:|:---:|:---:|
 
 
