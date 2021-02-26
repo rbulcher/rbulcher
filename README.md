@@ -15,18 +15,11 @@
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
-<a href="https://twitter.com/cs_vedant">
-  <img align="left" alt="Ryan Bulcher Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-</a>
-<a href="https://dev.to/coderjojo">
-  <img align="left" alt="Ryan Bulcher DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Ryan Bulcher Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vedant-jajoo-89a366171/">
-  <img align="left" alt="Ryan Bulcher Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a><br/><br/>
+<a style="color:rgb(61, 57, 57);"_blank" href="https://www.facebook.com/people/Ryan-Bulcher/100017606082197" class="fa fa-facebook w3-hover-opacity"></a>
+      <a style="color:rgb(61, 57, 57);" target="_blank" href="https://www.snapchat.com/add/rya5n12" class="fa fa-snapchat w3-hover-opacity"></a>
+      <a style="color:rgb(61, 57, 57);" target="_blank" href="https://twitter.com/ryan_bulcher" class="fa fa-twitter w3-hover-opacity"></a>
+      <a style="color:rgb(61, 57, 57);" target="_blank" href="https://www.linkedin.com/in/ryan-bulcher-60797a149" class="fa fa-linkedin w3-hover-opacity"></a>
+      <a style="color:rgb(61, 57, 57);" target="_blank" href="https://github.com/rbulcher" class="fa fa-github w3-hover-opacity"></a>><br/><br/>
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
