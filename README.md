@@ -2,7 +2,7 @@
   <img src="https://github.com/rbulcher/rbulcher/blob/main/gitHeader.png">
   <br><br>
   <samp>
-    I'm <a href="http://ryanbulcher.com/">Ryan</a> currently a Fourth Year Software Engineer student at <a href="https://www.miamioh.edu">@MiamiOH</a> :school: and aspiring software developer:computer:. Interested in working on Full Stack development, Data Science, Databases and currently learning C# and SQL. I enjoy self teaching projects and learning new things :bulb:
+    I'm <a href="http://ryanbulcher.com/">Ryan</a> currently a Software Engineer student at <a href="https://infotrust.com/">@MiamiOH</a> :work: and passionate software developer:computer:. Interested in working on Full Stack development, Data Science, Databases and currently learning GCLOUD and Big Query. I enjoy self teaching projects and learning new things :bulb:
   </samp>
 </p>
 
